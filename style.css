@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    color: #333333
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+titulo-principal{
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+caixa-navegação{
+    background-color: #0000ff;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px
+}
+
+caixa-experiencias{
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-size: 18px;
+    color: #333333
+}
+
+caixa-projetos{
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-size: 18px;
+    color: #333333
+}
